@@ -46,8 +46,9 @@
 </p>
 
 ### My Projects
+- NFT marketplace<br>
+[Sweet NFT marketplace](http://sweet.io/), 
 - DeFi<br>
-[CinemaDraft DeFi](http://18.116.235.55/), 
 [SiShiSwap](https://app.sishi.finance/)
 - NFT Dapps<br>
 [Funkiverse](https://funkifoxes.com/), 
